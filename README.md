@@ -35,7 +35,6 @@ Axios (istekler için)
 
 1. Projeyi klonlayın
 git clone https://github.com/barzandavut/Image-Search-App
-cd react-image-search
 
 3. Bağımlılıkları yükleyin
 npm install
@@ -50,6 +49,7 @@ https://unsplash.com/developers
 
 4. Geliştirme sunucusunu başlatın
 npm run dev
+
 
 🔌 API Kullanımı
 
