@@ -34,13 +34,13 @@ Axios (istekler için)
 📦 Kurulum
 
 1. Projeyi klonlayın
-git clone https://github.com/kullaniciadi/react-image-search.git
+git clone https://github.com/barzandavut/Image-Search-App
 cd react-image-search
 
-2. Bağımlılıkları yükleyin
+3. Bağımlılıkları yükleyin
 npm install
 
-3. Env dosyasını oluşturun
+4. Env dosyasını oluşturun
 Kök dizinde .env dosyası açın ve içine kendi Unsplash Access Key’inizi yazın:
 
 VITE_UNSPLASH_ACCESS_KEY=YOUR_ACCESS_KEY_HERE
